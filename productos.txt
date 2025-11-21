@@ -1,0 +1,5 @@
+1|camiseta|200|deportiva
+2|panatalon|250|formal
+3|chamarra|500|invierno
+4|sueter|350|sueter navideño
+5|calcetines|250|calcetines de invierno
